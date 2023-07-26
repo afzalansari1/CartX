@@ -3,7 +3,6 @@ package com.afzal.cartx
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-
 val products = mutableListOf(
     Product(
         1, "Wooden Chair", "4,900", R.drawable.wooden_chair,
